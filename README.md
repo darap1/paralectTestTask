@@ -1,6 +1,6 @@
 # paralectTestTask
 
-deploy:
+# deploy:
 
 Задание (https://startup-summer-2023-dev-task.super.site/)
 Написать приложение для поиска и управления вакансиями и в соответствии с дизайном.
